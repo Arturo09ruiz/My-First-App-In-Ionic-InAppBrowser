@@ -1,5 +1,7 @@
 {
   "name": "InAppBrowser",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
